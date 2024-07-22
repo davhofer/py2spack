@@ -1,0 +1,18 @@
+pyspack -> taken
+py2spack -> confusion with pyspack and pip2spack?
+pypi2spack
+pip2spack -> taken
+spackaging
+spack-gen
+spackgen
+py-spack-gen
+spackagen
+spackpy
+py2spack-converter
+spacker
+
+
+=> py2spack 
+=> spackgen 
+=> pyspackgen
+=> spacker
